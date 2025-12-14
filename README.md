@@ -50,3 +50,16 @@ Zählstellen (z.B. *Station Langstrasse*) eindeutig zu identifizieren und zu lok
 - Alle Pfade sind relativ
 - Das Notebook ist von oben nach unten ausführbar
 - Es werden ausschliesslich Standard-Python-Bibliotheken verwendet
+
+
+## 📌 Datenquelle
+
+Die Veloverkehrsdaten stammen vom **Open-Data-Portal der Stadt Zürich**.
+
+Quelle:
+- Stadt Zürich – Open Government Data (OGD)
+- Veloverkehrszählungen im öffentlichen Raum
+
+Die Daten werden im Rahmen dieses Projekts ausschliesslich
+für Lehr- und Analysezwecke verwendet.
+
